@@ -1,0 +1,28 @@
+[submodule "Airtest/Airtest"]
+	path = Airtest/Airtest
+	url = git@github.com:47045039/Airtest.git
+	branch = dev
+[submodule "Airtest/Poco"]
+	path = Airtest/Poco
+	url = git@github.com:47045039/Poco.git
+	branch = dev
+[submodule "Airtest/PocoService.apk"]
+	path = Airtest/PocoService.apk
+	url = git@github.com:47045039/PocoService.apk.git
+	branch = dev
+[submodule "Airtest/hrpc"]
+	path = Airtest/hrpc
+	url = git@github.com:47045039/hrpc.git
+	branch = dev
+[submodule "Airtest/PocoUnit"]
+	path = Airtest/PocoUnit
+	url = git@github.com:47045039/PocoUnit.git
+	branch = dev
+[submodule "Airtest/deval"]
+	path = Airtest/deval
+	url = git@github.com:47045039/deval.git
+	branch = dev
+[submodule "Airtest/my-testflow"]
+	path = Airtest/my-testflow
+	url = git@github.com:47045039/my-testflow.git
+	branch = dev
